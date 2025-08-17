@@ -2,9 +2,8 @@
 
 Nothing to say... Let's make a tour :wink:
 
-![Custom badge](https://img.shields.io/endpoint?color=gree&label=reach%20here&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2Fvuxuanbac%2Fvuxuanbac.json)
-
 :two::zero::zero::one: :grin:
+
 <!--
 **VuXuanBac/VuXuanBac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
